@@ -1,4 +1,4 @@
-package BR.EDU.IFPB.ESP.POO.WHATS;
+package br.edu.ifpb.esp.poo.whats;
 
 public class Main {
 
